@@ -1,0 +1,51 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "James Downs",
+    "longName": "Star Trek",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/logobw.png",
+                "menuIcon": true,
+                "name": "LOGO",
+                "type": "png"
+            },
+            {
+                "file": "fonts/Okuda Bold.otf",
+                "name": "OKUDA_BOLD_25",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Okuda Bold.otf",
+                "name": "OKUDA_BOLD_90",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Okuda.otf",
+                "name": "OKUDA_16",
+                "type": "font"
+            },
+            {
+                "file": "images/startrekbw.png",
+                "name": "BACKGROUND",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Star Trek",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "2c9ad50e-81a5-44a0-b0de-0b5441b838da",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
